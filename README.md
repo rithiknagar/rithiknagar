@@ -96,7 +96,7 @@ Software Engineer | Python Backend Developer | GenAI & RAG
 
 <p align="left">
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/langchain/FFFFFF" alt="LangChain" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>
   </a>
 
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
